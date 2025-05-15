@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    background-color: #fff;
+  
+
+}
+form{
+    background-color: silver;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    display: flexbox;
+    min-width: 300px;
+    min-height: 300px;
+    width: auto;
+    height: auto;
+}
+
+
+.claro{
+    background-color: #fff;
+    color: #000;
+}
+.escuro{
+    background-color: #000;
+    color: #fff;
+}
